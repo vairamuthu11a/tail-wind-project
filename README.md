@@ -1,1 +1,2 @@
-#Sample Web-page project .Built using Tailwind CSS to achieve a modern and customizable look
+#Sample Web-page project using Tailwind CSS 
+Built using Tailwind CSS to achieve a modern and customizable look
